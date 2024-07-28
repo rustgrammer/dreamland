@@ -1,1 +1,1 @@
-![dreamland website homepage in pdf format](https://github.com/rustgrammer/dreamland/blob/master/design/homepage.pdf)
+![dreamland website homepage in jpg format](https://github.com/rustgrammer/dreamland/blob/master/design/homepage.jpg?raw=true)
